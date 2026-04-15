@@ -4,7 +4,7 @@ class PlanetData {
 
     var planetName: String? = null
     var planetType: String? = null
-    val planetImage: String? = null
+    var planetImage: String? = null
     var planetDescription: String? = null
 
     // Default constructor. Need this or app will crash.
